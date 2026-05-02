@@ -97,10 +97,10 @@ Cell-count comparison:
 
 Outputs:
 
-- [results_minimal/2026-05-02/15-26-04/hyperparams.json](/data/dingmeidan/xingqiu-auto-code/TopoCellGen/results_minimal/2026-05-02/15-26-04/hyperparams.json)
-- [results_minimal/2026-05-02/15-26-04/cell_counts.json](/data/dingmeidan/xingqiu-auto-code/TopoCellGen/results_minimal/2026-05-02/15-26-04/cell_counts.json)
-- [results_minimal/2026-05-02/15-26-04/npy/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.npy](/data/dingmeidan/xingqiu-auto-code/TopoCellGen/results_minimal/2026-05-02/15-26-04/npy/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.npy)
-- [results_minimal/2026-05-02/15-26-04/img/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.png](/data/dingmeidan/xingqiu-auto-code/TopoCellGen/results_minimal/2026-05-02/15-26-04/img/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.png)
+- `results_minimal/2026-05-02/15-26-04/hyperparams.json`
+- `results_minimal/2026-05-02/15-26-04/cell_counts.json`
+- `results_minimal/2026-05-02/15-26-04/npy/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.npy`
+- `results_minimal/2026-05-02/15-26-04/img/TCGA-A8-A099-01Z-00-DX1_29501_22501_1000_1000_0.93_gen_114.png`
 
 ## Notes
 
